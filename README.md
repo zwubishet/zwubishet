@@ -8,7 +8,7 @@ I'm a passionate **Flutter developer** and **Information Systems graduate** from
 
 - 🎓 Graduated in Information Systems (BSc)
 - 💡 I love turning ideas into real apps that help people
-- 🔭 Currently working on: a **Pregnancy & Childcare Assistant App**
+- 🔭 Currently working on: a **Student Management System**
 - 🌱 Learning more about: **Django**, **Cloud Computing**, and **CI/CD**
 - 🤝 Looking to collaborate on Flutter and full-stack projects
 - 💬 Ask me about: Flutter, Dart, Firebase, Supabase, Django, PostgreSQL
