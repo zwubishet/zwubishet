@@ -14,7 +14,6 @@ I'm a passionate **Flutter developer** and **Information Systems graduate** from
 - 💬 Ask me about: Flutter, Dart, Firebase, Supabase, Django, PostgreSQL
 - 📫 Reach me at: [wubishetwudu1624@gmail.com](mailto:wubishetwudu1624@gmail.com)
 - 🌍 LinkedIn: [Wubishet Wudu](https://www.linkedin.com/in/wubishet-wudu-50b806254/)
-
 ---
 
 ## 💻 Tech Stack
