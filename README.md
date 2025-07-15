@@ -9,9 +9,9 @@ I'm a passionate **Flutter developer** and **Information Systems graduate** from
 - 🎓 Graduated in Information Systems (BSc)
 - 💡 I love turning ideas into real apps that help people
 - 🔭 Currently working on: a **Student Management System**
-- 🌱 Learning more about: **Django**, **Cloud Computing**, and **CI/CD**
+- 🌱 Learning more about: **NodeJs**, **Cloud Computing**, and **CI/CD**
 - 🤝 Looking to collaborate on Flutter and full-stack projects
-- 💬 Ask me about: Flutter, Dart, Firebase, Supabase, Django, PostgreSQL
+- 💬 Ask me about: Flutter, Dart, Firebase, Supabase, NodeJs, PostgreSQL
 - 📫 Reach me at: [wubishetwudu1624@gmail.com](mailto:wubishetwudu1624@gmail.com)
 - 🌍 LinkedIn: [Wubishet Wudu](https://www.linkedin.com/in/wubishet-wudu-50b806254/)
 ---
