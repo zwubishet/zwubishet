@@ -1,4 +1,3 @@
-You said:
 # 👋 Hi, I'm Wubishet Wudu
 
 I'm a passionate **Flutter developer** and **Information Systems graduate** from Bahir Dar University. I love building real-world mobile and web applications that solve practical problems. My journey includes experience in both **frontend** and **backend** development, with a growing interest in cloud-based solutions and full-stack systems.
