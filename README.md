@@ -36,7 +36,6 @@ I'm a passionate **Flutter developer** and **Information Systems graduate** from
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
