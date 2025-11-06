@@ -9,7 +9,7 @@ I'm a passionate **FullStack developer** and **Information Systems graduate** fr
 - 🎓 Graduated in Information Systems (BSc)
 - 💡 I love turning ideas into real apps that help people
 - 🔭 Currently working on: a **Student Management System**
-- 🌱 Learning more about: **NodeJs**, **Cloud Computing**, and **CI/CD**
+- 🌱 Learning more about: **NodeJs** and **Cloud Computing**
 - 🤝 Looking to collaborate on Flutter and full-stack projects
 - 💬 Ask me about: Flutter, Dart, Firebase, Supabase, NodeJs, PostgreSQL
 - 📫 Reach me at: [wubishetwudu1624@gmail.com](mailto:wubishetwudu1624@gmail.com)
